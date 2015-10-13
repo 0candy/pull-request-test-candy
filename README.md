@@ -5,5 +5,5 @@ This is a test repo for making a pull request tracker
 Candy
 
 #Collaborators
-Richard Pringle\n 
+Richard Pringle  
 Candy
