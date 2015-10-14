@@ -1,7 +1,9 @@
 # pull-request-test-candy
-For testing purposes
+This is a test repo for making a pull request tracker
 
+# Owner
+Candy
 
-Candy is the owner.
-
-Collaborators: Candy
+#Collaborators
+Richard Pringle  
+Candy
